@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Product-Menu/static/css/main.59bcbade.css",
+    "main.js": "/Product-Menu/static/js/main.45a1934a.js",
+    "index.html": "/Product-Menu/index.html",
+    "main.59bcbade.css.map": "/Product-Menu/static/css/main.59bcbade.css.map",
+    "main.45a1934a.js.map": "/Product-Menu/static/js/main.45a1934a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59bcbade.css",
+    "static/js/main.45a1934a.js"
+  ]
+}
